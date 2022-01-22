@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/alg_graphs.h
+iostream
+-
+string
+-
+list
+-
+stack
+-
+cassert
+-
+
+../include/alg_maxsubarraysum.h
+vector
+-
+algorithm
+-
+
+../include/alg_stopwatch.h
+chrono
+-
+
+../include/algo4Sum.h
+vector
+-
+math.h
+-
+algorithm
+-
+
+C:/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/src/main.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+random
+-
+memory
+-
+alg_stopwatch.h
+C:/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/src/alg_stopwatch.h
+alg_graphs.h
+C:/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/src/alg_graphs.h
+alg_maxsubarraysum.h
+C:/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/src/alg_maxsubarraysum.h
+algo4Sum.h
+C:/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/src/algo4Sum.h
+
