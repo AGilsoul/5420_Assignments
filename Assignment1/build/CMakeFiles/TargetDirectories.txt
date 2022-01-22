@@ -1,0 +1,4 @@
+/mnt/c/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/build/CMakeFiles/tester.dir
+/mnt/c/Users/agils/Desktop/5420 Advanced Algorithms/Assignment1/build/CMakeFiles/main.dir

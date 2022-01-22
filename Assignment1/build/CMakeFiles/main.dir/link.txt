@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/alg_graphs.cpp.o CMakeFiles/main.dir/src/alg_stopwatch.cpp.o CMakeFiles/main.dir/src/alg_strings.cpp.o  -o main 
